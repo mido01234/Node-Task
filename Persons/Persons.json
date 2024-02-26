@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "fname": "Ahmed",
+    "lname": "Ali",
+    "age": "20",
+    "city": "cairo"
+  },
+  {
+    "id": "3",
+    "fname": "Cristiano",
+    "lname": "Mo",
+    "age": "21",
+    "city": "cairo"
+  },
+  {
+    "id": "5",
+    "fname": "Modric",
+    "lname": "Mo",
+    "age": "34",
+    "city": "Madrid"
+  },
+  {
+    "id": "7",
+    "fname": "Mo",
+    "lname": "Salah",
+    "age": "31",
+    "city": "Liverpool"
+  },
+  {
+    "id": "9",
+    "fname": "Luis",
+    "lname": "Suarez",
+    "age": "34",
+    "city": "Miami"
+  },
+  {
+    "id": "10",
+    "fname": "Kevin",
+    "lname": "De Bryne",
+    "age": "32",
+    "city": "Manchester"
+  }
+]
